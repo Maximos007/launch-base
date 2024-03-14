@@ -114,3 +114,17 @@ footer {
   margin: 0 10px;
   color: #fff;
 }
+
+/* ALTERAÇÃO VISUAL LINKS*/
+
+a {
+  color: #333;
+  transition: 0.3s;
+  border-bottom: 1px solid #19db39;
+}
+
+a:hover {
+  color: #b7f5c1;
+  border-bottom: 1px solid #333;
+}
+
